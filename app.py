@@ -10,9 +10,9 @@ def saludo(nombre):
     return jsonify({'mensaje': mensaje})
 
 if __name__ == '__main__':
-    app.run
+    app.run()
 
-    
+
 
 
 
